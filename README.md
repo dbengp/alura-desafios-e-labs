@@ -2,5 +2,5 @@
 destinado aos desafios e labs da alura.
 
 ##
-projeto web básico, com foco em lógica no Javascript: em "./web-basic-js/".
+projeto web básico, com foco em lógica no Javascript.".
 <https://alura-desafios-e-labs.vercel.app/>
